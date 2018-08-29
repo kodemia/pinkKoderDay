@@ -1,0 +1,12 @@
+form{
+   background: #ccc;
+	padding: 15px;
+	border-radius: 5px;
+	margin-top: 20px;
+	box-shadow: 5px 5px 5px #ddd;
+} 
+
+.card{
+	margin-top:20px;
+	background:lightsteelblue;
+}

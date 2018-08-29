@@ -1,0 +1,22 @@
+{
+  "productCatalog" : {
+    "Producto1" : {
+      "productDescription" : "El mejor producto del mundo",
+      "productImageUrl" : "img/sunglasses.jpg",
+      "productName" : "Producto 1",
+      "productPrice" : 10000
+    },
+    "Producto2" : {
+      "productDescription" : "Otro maravilloso articulo",
+      "productImageUrl" : "img/sunglasses.jpg",
+      "productName" : "Producto 2",
+      "productPrice" : 15000
+    },
+    "Producto3" : {
+      "productDescription" : "El tercer maravilloso producto",
+      "productImageUrl" : "img/sunglasses.jpg",
+      "productName" : "Producto 2",
+      "productPrice" : 15000
+    }
+  }
+}
